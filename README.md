@@ -1,6 +1,8 @@
 # codershub
 
-A new Flutter project.
+A chat box made by flutter.
+
+## Screenshots
 
 ## Getting Started
 
